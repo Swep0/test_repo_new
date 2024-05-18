@@ -5,6 +5,6 @@ git config --global user.email "swep0986@gmail.com"
 git add *
 git commit -m "$datatime_now"
 git branch -M main
-git remote add origin https://github.com/Swep0/
+git remote add origin https://github.com/Swep0/test_repo_new.git
 git push -u origin main
 sleep 10
